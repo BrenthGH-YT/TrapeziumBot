@@ -49,7 +49,7 @@ client.on('message', message => {
 
 client.on('message', message => {
     if (message.content === 't;ranks') {
-    	message.reply('**[OWNER],[CO-OWNER],[SENIOR-MANAGER],[MANAGER],[DEV],[HEAD-ADMIN],[ADMIN],[MOD],[T-MOD],[HELPER],[BUILDER],[TRAP++],[TRAP+],[TRAP],DRAGON,EMERALD,DIAMOND,LAPIS,REDSTONE,GOLD,IRON,COAL,[YOUTUBER],MEMBER,[BOT]**');
+    	message.reply('**[OWNER],[CO-OWNER],[SENIOR-MANAGER],[MANAGER],[DEV],[HEAD-ADMIN],[ADMIN],[ANTICHEAT-ADMIN],[MOD],[T-MOD],[HELPER],[BUILDER],[TRAP++],[TRAP+],[TRAP],DRAGON,EMERALD,DIAMOND,LAPIS,REDSTONE,GOLD,IRON,COAL,[YOUTUBER],MEMBER,[BOT]**');
   	}
 });
 
