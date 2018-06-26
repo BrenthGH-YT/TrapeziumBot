@@ -25,13 +25,13 @@ client.on('message', message => {
 
 client.on('message', message => {
     if (message.content === 't;ip') {
-    	message.reply('**(WIP) (IP TOO IF RELEASED) IP: TrapeziumMC.mcnetwork.me**');
+    	message.reply('**(WIP) (IP TOO IF RELEASED) IP: TrapeziumMC.aternos.me**');
   	}
 });
 
 client.on('message', message => {
     if (message.content === 't;tag') {
-    	message.reply('**Owner Discord Tag: Brenth#4650**');
+    	message.reply('**Owner Discord Tag: Brenth#9892**');
   	}
 });
 
